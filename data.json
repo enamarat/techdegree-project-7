@@ -1,0 +1,49 @@
+{
+  "projects": [
+    {
+      "id": "0",
+      "project_name": "techdegree-project-1",
+      "description": "Random Quote Generator",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "live_link": "https://enamarat.github.io/techdegree-project-1/",
+      "github_link": "https://github.com/enamarat/techdegree-project-1",
+      "image-urls": ["../images/rsz_project1-1", "../images/rsz_project1-2"]
+    },
+    {
+      "id": "1",
+      "project_name": "techdegree-project-2",
+      "description": "Pagination And Content Filter",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "live_link": "https://enamarat.github.io/techdegree-project-2/",
+      "github_link": "https://github.com/enamarat/techdegree-project-2",
+      "image-urls": ["../images/rsz_project2-1", "../images/rsz_project2-2"]
+    },
+    {
+      "id": "2",
+      "project_name": "techdegree-project-3",
+      "description": "An Interactive Form",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "live_link": "https://enamarat.github.io/techdegree-project-3/",
+      "github_link": "https://github.com/enamarat/techdegree-project-3",
+      "image-urls": ["../images/rsz_project3-1", "../images/rsz_project3-2"]
+    },
+    {
+      "id": "3",
+      "project_name": "techdegree-project-4",
+      "description": "Object Oriented Programming Game App",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "live_link": "https://enamarat.github.io/techdegree-project-4/",
+      "github_link": "https://github.com/enamarat/techdegree-project-4",
+      "image-urls": ["../images/rsz_project4-1", "../images/rsz_project4-2"]
+    },
+    {
+      "id": "4",
+      "project_name": "techdegree-project-5",
+      "description": "A Use Of Public API To Create An Employee Directory",
+      "technologies": ["HTML", "CSS", "JavaScript", "AJAX"],
+      "live_link": "https://enamarat.github.io/techdegree-project-5/",
+      "github_link": "https://github.com/enamarat/techdegree-project-5",
+      "image-urls": ["../images/rsz_project5-1", "../images/rsz_project5-2"]
+    }
+  ]
+}
