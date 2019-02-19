@@ -1,2 +1,4 @@
 # techdegree-project-7
-A Static Node.js and Express Site
+
+
+A portfolio site built using Node.js, Express and Pug.
