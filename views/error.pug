@@ -1,0 +1,8 @@
+extend layout.pug
+
+block content
+  article.grid-container.portfolio-intro
+    div
+      h1= error.message
+      h2= `Status code of the error: ${error.status}`
+      pre.lead.text-light= error.stack
