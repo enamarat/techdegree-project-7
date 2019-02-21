@@ -7,7 +7,7 @@
       "technologies": ["HTML", "CSS", "JavaScript"],
       "live_link": "https://enamarat.github.io/techdegree-project-1/",
       "github_link": "https://github.com/enamarat/techdegree-project-1",
-      "image_urls": ["/images/rsz_project1-1.jpg", "/images/rsz_project1-2.jpg"]
+      "image_urls": ["/images/rsz_project1-1.jpg", "/images/rsz_project1-2.jpg", "/images/rsz_project1-3.jpg", "/images/rsz_project1-4.jpg"]
     },
     {
       "id": "1",
@@ -16,7 +16,7 @@
       "technologies": ["HTML", "CSS", "JavaScript"],
       "live_link": "https://enamarat.github.io/techdegree-project-2/",
       "github_link": "https://github.com/enamarat/techdegree-project-2",
-      "image_urls": ["/images/rsz_project2-1.jpg", "/images/rsz_project2-2.jpg"]
+      "image_urls": ["/images/rsz_project2-1.jpg", "/images/rsz_project2-2.jpg", "/images/rsz_project2-3.jpg", "/images/rsz_project2-4.jpg"]
     },
     {
       "id": "2",
@@ -25,7 +25,7 @@
       "technologies": ["HTML", "CSS", "JavaScript"],
       "live_link": "https://enamarat.github.io/techdegree-project-3/",
       "github_link": "https://github.com/enamarat/techdegree-project-3",
-      "image_urls": ["/images/rsz_project3-1.jpg", "/images/rsz_project3-2.jpg"]
+      "image_urls": ["/images/rsz_project3-1.jpg", "/images/rsz_project3-2.jpg", "/images/rsz_project3-3.jpg", "/images/rsz_project3-4.jpg"]
     },
     {
       "id": "3",
@@ -34,7 +34,7 @@
       "technologies": ["HTML", "CSS", "JavaScript"],
       "live_link": "https://enamarat.github.io/techdegree-project-4/",
       "github_link": "https://github.com/enamarat/techdegree-project-4",
-      "image_urls": ["/images/rsz_project4-1.jpg", "/images/rsz_project4-2.jpg"]
+      "image_urls": ["/images/rsz_project4-1.jpg", "/images/rsz_project4-2.jpg", "/images/rsz_project4-3.jpg", "/images/rsz_project4-4.jpg"]
     },
     {
       "id": "4",
@@ -43,7 +43,7 @@
       "technologies": ["HTML", "CSS", "JavaScript", "AJAX"],
       "live_link": "https://enamarat.github.io/techdegree-project-5/",
       "github_link": "https://github.com/enamarat/techdegree-project-5",
-      "image_urls": ["/images/rsz_project5-1.jpg", "/images/rsz_project5-2.jpg"]
+      "image_urls": ["/images/rsz_project5-1.jpg", "/images/rsz_project5-2.jpg", "/images/rsz_project5-3.jpg", "/images/rsz_project5-4.jpg"]
     }
   ]
 }
