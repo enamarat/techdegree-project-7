@@ -20,10 +20,10 @@
   "homepage": "https://github.com/enamarat/techdegree-project-7#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "pug": "^2.0.4"
+    "pug": "^3.0.2"
   },
   "devDependencies": {
-    "acorn": "^7.1.1",
+    "acorn": "^8.0.5",
     "kind-of": "^6.0.3"
   }
 }
